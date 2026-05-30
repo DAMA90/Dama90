@@ -2,11 +2,11 @@
 
 I'm Dama Pascoal Baticam
 
-## 👩‍💻 Application Developer
+##  Application Developer
 
 I'm a software developer with a background in Computer Engineering and Application Development.
 
-💻 Main focus:
+ Main focus:
 - PHP / Symfony
 - Java / Spring
 - Node.js
@@ -15,13 +15,13 @@ I'm a software developer with a background in Computer Engineering and Applicati
 - Linux Administration
 - Information Security
 
-## 🚀 About Me
+##  About Me
 
 I have experience in backend development, authentication systems, user role management, database design, and IT security.
 
 Currently based in Baden, Switzerland 🇨🇭 and actively looking for new opportunities as a Backend Developer.
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
@@ -32,7 +32,7 @@ Currently based in Baden, Switzerland 🇨🇭 and actively looking for new oppo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-## 🌍 Languages
+## Languages
 
 - Portuguese 🇵🇹 (Native)
 - French 🇫🇷 (Fluent)
@@ -53,4 +53,4 @@ Currently Learning
 - German Language
 - Software Architecture (DDD & CQRS)
 
-⭐ Always open to learning new technologies and contributing to interesting projects.
+ Always open to learning new technologies and contributing to interesting projects.
